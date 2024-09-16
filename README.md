@@ -1,14 +1,20 @@
 Read me file for Crime Project pipeline 
 
 A) Instructions for pipeline use:
+
 	1. Download 'all_crime_data' folder and put into python directory
+ 
 	2. Run 'Crime pipeline python.py'
+ 
 	3. 'Pipeline execution started...' will appear in terminal at start of pipeline
+ 
 	4. 'LOG_FILE.txt' will appear in directory and will append errors and information
+ 
 	5. 'Pipeline finished!' will appear in terminal once pipeline is completed
 	  
 
 B) Data sets with original download sources (for data dictionary see link):
+
 	1. Street dataset - 01/22-12/23 'Merseyside' and 'Nottinghamshire' files containing 'street' keyword
 		https://data.police.uk/data/ 
   
